@@ -1,1 +1,1 @@
-# Hackerrank_Statistics
+# Hackerrank_Statistics_Tutorial 
