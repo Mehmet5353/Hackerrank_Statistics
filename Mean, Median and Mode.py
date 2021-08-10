@@ -6,10 +6,10 @@ L.sort()
 
 mean=sum(L)/len(L)
 if N%2==0:
-    median=(L[int(N/2)]+L[int(N/2)-1])/2
+    median=(L[int(N/2)]+L[int(N/2)-1])/2 
 else:
     median=L[int(N/2)] 
    
 print(mean)
 print(median)
-print(Counter(L).most_common(1)[0][0])
+print(Counter(L).most_common(1)[0][0]) #Printing most_coomon element in the list.
